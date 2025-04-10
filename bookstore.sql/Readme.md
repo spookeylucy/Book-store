@@ -93,3 +93,4 @@ Roles are implemented to manage database access:
 
 
 The ER Diagram
+![alt text](image-1.png)

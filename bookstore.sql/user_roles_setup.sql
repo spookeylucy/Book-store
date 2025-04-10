@@ -1,4 +1,6 @@
 
+USE BOOKSTORE;
+
 
 CREATE user 'charity'@'localhost' IDENTIFIED BY 1234;
 CREATE user 'Neo'@'localhost' IDENTIFIED by 1234;
