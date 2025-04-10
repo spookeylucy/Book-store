@@ -9,6 +9,7 @@ This project is a MySQL-based Bookstore Database designed to handle the core fun
 - **Tooling:** MySQL Workbench, VS Code, Git
 - **Language:** SQL
 - **Version Control:** GitHub
+- **ER Diagram** Draw.io
 
 ---
 
